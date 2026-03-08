@@ -72,6 +72,9 @@ El análisis busca identificar patrones y factores asociados al churn, con el fi
 ---
 
 👩‍💻 **Autora**: Pamela Tapia Desarrolladora web en formación, apasionada por la accesibilidad, la lógia interactiva y el aprendizaje colaborativo.
+
 pamelatapiaptp@gmail.com
+
 https://www.linkedin.com/in/pamelatapiaponce/
+
 📅 **Fecha**: Marzo 2026  
